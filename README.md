@@ -24,7 +24,7 @@ Predicting wine quality is an interesting and valuable task, especially in the w
 
 ## Data
 
-The dataset used for this project can be found in the `/Dataset` directory. It includes various features related to wine properties, such as acidity, pH level, alcohol content, and more.
+The dataset used for this project can be found in the `.csv` file. It includes various features related to wine properties, such as acidity, pH level, alcohol content, and more.
 
 ## Data Analysis
 
